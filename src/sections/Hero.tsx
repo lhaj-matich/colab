@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="flex py-6 items-center">
         <div className="flex flex-col gap-10 max-w-[400px]">
           <div>
-            <h3 className="text-[20px] text-primary font-medium">
+            <h3 className="section-tag">
               A Trusted Digital Agency
             </h3>
             <h1 className="text-[48px] font-semibold leading-[60px] tracking-tight mt-4">

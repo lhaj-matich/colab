@@ -15,4 +15,20 @@
     .link { 
         @apply hover:underline-offset-[5px] hover:underline
     }
+
+    .section-tag {
+        @apply text-[20px] text-primary font-medium
+    }
+
+    .section-heading {
+        @apply text-3xl font-bold
+    }
+
+    .section-description {
+        @apply text-black/40
+    }
+
+    .section-container {
+        @apply max-w-[570px] mx-auto
+    }
 }

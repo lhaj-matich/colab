@@ -12,7 +12,7 @@ const Hero = () => {
               A Trusted Digital Agency
             </h3>
             <h1 className="text-[48px] font-semibold leading-[60px] tracking-tight mt-4">
-              We're A Creative Digital Agency.
+              We&#39;re A Creative Digital Agency.
             </h1>
             <p className="text-black/40 mt-4">
               At colab, we turn creative ideas into stunning digital expericens

@@ -1,5 +1,4 @@
 import Image from "next/image";
-import CogIcon from "@/assets/cog_logo.svg";
 import officeImage from "@/assets/office_image.png";
 import { processes } from "@/lib/constants";
 

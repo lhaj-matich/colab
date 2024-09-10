@@ -2,6 +2,7 @@ import Features from "@/sections/Features";
 import Header from "@/sections/Header";
 import Hero from "@/sections/Hero";
 import IconTicker from "@/sections/IconTicker";
+import Pricing from "@/sections/Pricing";
 import Process from "@/sections/Process";
 import ProductShowCase from "@/sections/ProductShowCase";
 import Testmonials from "@/sections/Testmonials";
@@ -16,6 +17,7 @@ export default function Home() {
       <ProductShowCase />
       <Process />
       <Testmonials />
+      <Pricing />
     </>
   );
 }

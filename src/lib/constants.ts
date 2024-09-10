@@ -115,3 +115,38 @@ export const testimonials = [
     username: "@casey09",
   },
 ];
+
+export const pricingPackages = [
+  {
+    name: "Starter",
+    description: "Essential tools to launch your digital presence.",
+    price: 19,
+    features: ["SEO Optimization", "Social Media Setup", "Basic Website"],
+    inverted: false,
+  },
+  {
+    name: "Professional",
+    description: "Advanced marketing strategies and solutions.",
+    price: 54,
+    features: [
+      "SEO Optimization",
+      "Social Media Management",
+      "Advanced Analytics",
+      "Custom Website Design",
+    ],
+    inverted: false,
+  },
+  {
+    name: "Company",
+    description: "Comprehensive solutions for a robust strategy.",
+    price: 89,
+    features: [
+      "SEO Optimization",
+      "Social Media Management",
+      "Content Creation",
+      "Advanced Analytics",
+      "Premium Website Design",
+    ],
+    inverted: true,
+  },
+];

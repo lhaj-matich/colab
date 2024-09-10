@@ -7,7 +7,7 @@ import AirbnbLogo from "@/assets/airbnb_logo.svg";
 const IconTicker = () => {
   return (
     <section className="container mx-auto">
-      <div className="flex justify-around w-full [mask-image:linear-gradient(to_right,transparent,black_25%,black_75%,transparent)]">
+      <div className="flex justify-around w-full">
         <Image height={40} src={AdobeLogo} alt="Adobe Logo" />
         <Image height={40} src={AndreessenLogo} alt="Andreessen Logo" />
         <Image height={40} src={AmazonLogo} alt="Amazon Logo" />

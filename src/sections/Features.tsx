@@ -63,7 +63,7 @@ const Features = () => {
           development, and marketing strategies, to drive your brand’s success.
         </p>
       </div>
-      <div className="py-20 flex justify-around">
+      <div className="py-20 flex justify-around gap-4">
         {features.map((feature, index) => (
           <FeatureCard
             key={index}

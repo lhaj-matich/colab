@@ -5,7 +5,7 @@ const ProductShowCase = () => {
   return (
     <section className="container mx-auto">
       <div>
-        <div className="text-center section-container">
+        <div className="text-center section-container mx-auto">
           <h3 className="section-tag">Discover & Explore</h3>
           <h2 className="section-heading mt-4">We Work to Help You Grow</h2>
           <p className="section-description mt-4">

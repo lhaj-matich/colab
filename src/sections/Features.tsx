@@ -53,7 +53,7 @@ const FeatureCard = ({ inverted, image, title, content }: FeatureCardProps) => {
 const Features = () => {
   return (
     <section className="container mx-auto py-24">
-      <div className="text-center section-container">
+      <div className="text-center section-container mx-auto">
         <h3 className="section-tag">Our Services</h3>
         <h2 className="section-heading mt-4">
           Perfect Solution For Your Business

@@ -29,6 +29,6 @@
     }
 
     .section-container {
-        @apply max-w-[570px] mx-auto
+        @apply max-w-[570px]
     }
 }

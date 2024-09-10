@@ -4,6 +4,7 @@ import Hero from "@/sections/Hero";
 import IconTicker from "@/sections/IconTicker";
 import Process from "@/sections/Process";
 import ProductShowCase from "@/sections/ProductShowCase";
+import Testmonials from "@/sections/Testmonials";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Features />
       <ProductShowCase />
       <Process />
+      <Testmonials />
     </>
   );
 }

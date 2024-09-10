@@ -4,6 +4,15 @@ import CycleIcon from "@/assets/cycle_icon.svg";
 import CogIcon from "@/assets/cog_logo.svg";
 import UsersIcon from "@/assets/users_logo.svg";
 import UserIcon from "@/assets/user_logo.svg";
+import avatar1 from "@/assets/avatar-1.png";
+import avatar2 from "@/assets/avatar-2.png";
+import avatar3 from "@/assets/avatar-3.png";
+import avatar4 from "@/assets/avatar-4.png";
+import avatar5 from "@/assets/avatar-5.png";
+import avatar6 from "@/assets/avatar-6.png";
+import avatar7 from "@/assets/avatar-7.png";
+import avatar8 from "@/assets/avatar-8.png";
+import avatar9 from "@/assets/avatar-9.png";
 
 export const features = [
   {
@@ -47,5 +56,62 @@ export const processes = [
     title: "24/7 Support",
     content:
       "We provide round-the-clock support to address any concerns or issues, ensuring you're never left in the dark.",
+  },
+];
+
+export const testimonials = [
+  {
+    text: "As a seasoned designer always on the lookout for innovative tools, Framer.com quickly caught my eye and proved indispensable.",
+    imageSrc: avatar1,
+    name: "Jamie Rivera",
+    username: "@jamietechguru00",
+  },
+  {
+    text: "Our team's productivity has soared since we integrated this tool into our daily workflow. It's been a game-changer.",
+    imageSrc: avatar2,
+    name: "Josh Smith",
+    username: "@jjsmith",
+  },
+  {
+    text: "This app has revolutionized how I manage projects and deadlines, making every task more organized and efficient.",
+    imageSrc: avatar3,
+    name: "Morgan Lee",
+    username: "@morganleewhiz",
+  },
+  {
+    text: "I was amazed at how seamlessly we integrated this app into our workflow, enhancing our team's efficiency right away.",
+    imageSrc: avatar4,
+    name: "Casey Jordan",
+    username: "@caseyj",
+  },
+  {
+    text: "Planning and executing events has become much simpler with this app. It helps me manage every detail and avoid missing anything.",
+    imageSrc: avatar5,
+    name: "Taylor Kim",
+    username: "@taylorkimm",
+  },
+  {
+    text: "The customizability and integration features of this app are exceptional, making it a perfect fit for our varied needs.",
+    imageSrc: avatar6,
+    name: "Riley Smith",
+    username: "@rileysmith1",
+  },
+  {
+    text: "Using this app has streamlined our project management, significantly improving communication and collaboration across our team.",
+    imageSrc: avatar7,
+    name: "Jordan Patels",
+    username: "@jpatelsdesign",
+  },
+  {
+    text: "With this app, assigning tasks, tracking progress, and managing documents is now a breeze, all in one convenient place.",
+    imageSrc: avatar8,
+    name: "Sam Dawson",
+    username: "@dawsontechtips",
+  },
+  {
+    text: "Its user-friendly interface and robust features cater to our diverse needs, making it an invaluable tool for our operations.",
+    imageSrc: avatar9,
+    name: "Casey Harper",
+    username: "@casey09",
   },
 ];

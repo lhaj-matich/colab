@@ -25,7 +25,7 @@ const ProcessCard = ({ icon, title, content }: ProcessCardProps) => {
 
 const Process = () => {
   return (
-    <section className="container mx-auto py-20">
+    <section className="container mx-auto py-24">
       <div className="flex justify-between items-center">
         <div>
           <div className="max-w-[530px]">
